@@ -5,6 +5,8 @@ A showcase of great typeface combinations from the Google web fonts directory.
 ## Background
 There are so much typefaces in the Google web fonts directory. Many of them are awful. But there are also high-quality typefaces that deserve a closer look. Below are examples of these typefaces in action. Hover for name of typeface and click the texts of examples to get the typeface from the Google web fonts directory.
 
+The quotations are examples from my-spirited and I love them in different ways and for different reasons, which are rooted partly in the stylesheets for each font type example.
+
 ### View the samples
  * [bueltge.de/free-web-font-combinations/](http://bueltge.de/free-web-font-combinations/)
 
