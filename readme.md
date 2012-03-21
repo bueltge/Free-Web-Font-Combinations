@@ -18,7 +18,7 @@ Please let me also know if you like the examples or you hate it or whatever ... 
 I'm German and my English might be gruesome here and there. So please be patient with me and let me know of typos or grammatical farts. Thanks
 
 ### Thanks to the follow helpers and inspirations
- * http://www.google.com/webfonts
- * http://www.colourlovers.com/palette/53698/Its_a_Virtue
- * http://hellohappy.org/beautiful-web-type/
- * http://about.me/frankbueltge
+ * [Google Web Fonts](http://www.google.com/webfonts)
+ * [COLOURlovers](http://www.colourlovers.com/palette/53698/Its_a_Virtue)
+ * [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/)
+ * [Frank Bültge](http://about.me/frankbueltge)
