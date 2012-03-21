@@ -9,7 +9,7 @@ There are so much typefaces in the Google web fonts directory. Many of them are 
  * [bueltge.de/free-web-font-combinations/](http://bueltge.de/free-web-font-combinations/)
 
 ### Contact & Feedback
-The examples are *designed* and developed by me ([Frank Bültge](http://bueltge.de))
+The current examples are *designed* and developed by me ([Frank Bültge](http://bueltge.de))
 
 More examples will be added over time - help me. Watch and fork this repo on Github, see the structure and add your own examples.
 
