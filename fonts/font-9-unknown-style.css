@@ -1,0 +1,36 @@
+/**
+ * @package  Styling for Beautiful Web Type Combinations 9 Unknown
+ * @author   Frank Bültge <frank@bueltge.de>
+ * @since    0.0.1
+ * @version  0.0.1
+ *
+ * @description Fonts Rancho and Gudea, quote by Unknown ---- unbeatable argumentation
+ */
+ 
+.sample#unknown {
+	background: #fff;
+	color: #434108;
+	margin: 0 auto;
+	width: 100%;
+	padding: 250px 0;
+	text-align: justify;
+}
+	.sample#unknown section {
+		max-width: 800px;
+		margin: 0 auto;
+	}
+	.sample#unknown h1, .sample#unknown h2 {
+		font: 400 95px/1.2 'Rancho', Georgia, serif;
+	}
+		.sample#unknown h2 {
+			font-size: 20px;
+			margin-left: 110px;
+		}
+	.sample#unknown p {
+		font: 400 17px/1.6 'Gudea', Verdana, Helvetica, sans-serif;
+		margin-left: 270px;
+	}
+	.sample#unknown blockquote {
+		margin: 80px 0 0 0;
+	}
+	

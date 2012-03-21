@@ -1,0 +1,35 @@
+/**
+ * @package  Styling for Beautiful Web Type Combinations 7 Wolfgang Güllich
+ * @author   Frank Bültge <frank@bueltge.de>
+ * @since    0.0.1
+ * @version  0.0.1
+ *
+ * @description Fonts Pacifico and Arimo, quote by Wolfgang Güllich ---- for the truth and their own experience in this area
+ */
+ 
+.sample#vallencot {
+	background: #ebe54d;
+	color: #4b490B;
+	margin: 0 auto;
+	width: 100%;
+	padding: 250px 0;
+	text-align: justify;
+}
+	.sample#vallencot section {
+		max-width: 800px;
+		margin: 0 auto;
+	}
+	.sample#vallencot h1, .sample#vallencot h2 {
+		font: 400 70px/1.2 'Nixie One', Georgia, serif;
+	}
+		.sample#vallencot h2 {
+			font-size: 25px;
+			text-align: right;
+		}
+	.sample#vallencot p {
+		font: 400 20px/1.6 'Ledger', Garamond, Georgia, serif;
+	}
+	.sample#vallencot blockquote {
+		margin: 80px 0 0 0;
+	}
+	

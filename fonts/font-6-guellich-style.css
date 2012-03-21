@@ -1,0 +1,36 @@
+/**
+ * @package  Styling for Beautiful Web Type Combinations 6 Wolfgang Güllich
+ * @author   Frank Bültge <frank@bueltge.de>
+ * @since    0.0.1
+ * @version  0.0.1
+ *
+ * @description Fonts Pacifico and Arimo, quote by Wolfgang Güllich ---- for the kind of person to be and the ambition to do their own and my love to coffee
+ */
+ 
+.sample#guellich {
+	background: #4b490b;
+	color: #f2f2f2;
+	margin: 0 auto;
+	width: 100%;
+	padding: 250px 0;
+	text-align: justify;
+}
+	.sample#guellich section {
+		max-width: 800px;
+		margin: 0 auto;
+	}
+	.sample#guellich h1, .sample#guellich h2 {
+		font: 400 95px/2 'Pacifico', Georgia, serif;
+		margin-left: -70px;
+	}
+		.sample#guellich h2 {
+			font-size: 22px;
+		}
+	.sample#guellich p {
+		font: 400 16px/1.7 'Arimo', Verdana, Helvetica, sans-serif;
+		text-align: right;
+	}
+	.sample#guellich blockquote {
+		margin: 80px 0 0 0;
+	}
+	

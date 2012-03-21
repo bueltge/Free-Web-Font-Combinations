@@ -1,0 +1,35 @@
+/**
+ * @package  Styling for Beautiful Web Type Combinations 4 Anne Clark
+ * @author   Frank Bültge <frank@bueltge.de>
+ * @since    0.0.1
+ * @version  0.0.1
+ *
+ * @description Fonts Sansita One and Kameron, quote by Anne Clark ---- been with me for the very long
+ */
+ 
+.sample#anneclark {
+	background: #FF0051;
+	color: #333;
+	margin: 0 auto;
+	width: 100%;
+	padding: 250px 0;
+	text-align: justify;
+}
+	.sample#anneclark section {
+		max-width: 800px;
+		margin: 0 auto;
+	}
+	.sample#anneclark h1, .sample#anneclark h2 {
+		font: 400 70px/1.2 'Sansita one', Georgia, serif;
+	}
+		.sample#anneclark h2 {
+			font-size: 17px;
+		}
+	.sample#anneclark p {
+		font: 400 20px/1.6 'Kameron', Georgia, serif;
+		text-align: right;
+	}
+	.sample#anneclark blockquote {
+		margin: 80px 0 0 0;
+	}
+	

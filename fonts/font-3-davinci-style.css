@@ -1,0 +1,39 @@
+/**
+ * @package  Styling for Beautiful Web Type Combinations 3 Leonoardo da Vinci
+ * @author   Frank Bültge <frank@bueltge.de>
+ * @since    0.0.1
+ * @version  0.0.1
+ *
+ * @description Fonts Muli and Playfair Display, quote by Leonardo da Vinci ---- very impressive person for me
+ */
+ 
+.sample#davinci {
+	background: #000;
+	color: #fff;
+	margin: 0 auto;
+	width: 100%;
+	padding: 250px 0;
+	text-align: justify;
+}
+	.sample#davinci section {
+		max-width: 800px;
+		margin: 0 auto;
+	}
+	.sample#davinci h1, .sample#davinci h2 {
+		font: 400 45px/1.5 'Muli', Verdana, Helvetica, sans-serif;
+	}
+		.sample#davinci h2 {
+			font-size: 14px;
+			text-align: right;
+		}
+	.sample#davinci p {
+		font: 400 75px/1.6 'Playfair Display', Georgia, serif;
+		text-align: center;
+	}
+		.sample#davinci p span {
+			font-size: 53px;
+		}
+	.sample#davinci blockquote {
+		margin: 60px 0 0 0;
+	}
+	

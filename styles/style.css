@@ -1,0 +1,116 @@
+/**
+ * @package  Styling for Beautiful Web Type Combinations
+ * @author   Frank Bültge <frank@bueltge.de>
+ * @since    0.0.1
+ * @version  0.0.1
+ */
+ 
+body {
+	background: #ccc;
+	font-family: "helvetica neue", helvetica, arial, sans-serif;
+	line-height: 1;
+}
+
+.hidden {
+	display: none;
+}
+
+section.sample {
+	border-bottom: 1px solid #ccc;
+	-webkit-box-shadow: 0 8px 6px -8px #333;
+	-moz-box-shadow: 0 8px 6px -8px #333;
+	box-shadow: 0 8px 6px -8px #333;
+}
+
+footer {
+	padding: 70px 0 70px 100px;
+	text-align: left;
+	font: 400 14px/1.3 "open sans";
+	color: #555;
+}
+	footer a {
+		font-weight: 700;
+	}
+		footer a:hover {
+			border-bottom: 1px solid #555;
+			padding-bottom: 7px;
+		}
+	footer p {
+		margin: 10px 0;
+	}
+	footer li {
+		padding: 5px 0 8px 25px;
+		font-size: 13px;
+	}
+		footer li:before {
+			content: '✪ ';
+		}
+		footer li a {
+			font-weight: 400;
+		}
+		
+/**
+ * Github badge
+ */
+#github{
+	right:-65px;
+	height:30px;
+	top:40px;
+	position:absolute;
+	text-decoration:none;
+	width:250px;
+	-moz-transform:rotate(45deg);
+	-webkit-transform:rotate(45deg);
+	-o-transform:rotate(45deg);
+	-ms-transform:rotate(45deg);
+	transform:rotate(45deg)
+}
+#github span{
+	color: #fff;
+	background: #000;
+	font-size: 14px;
+	left: 0;
+	padding: 5px 0;
+	position: absolute;
+	text-align: center;
+	width: 250px;
+	-moz-box-shadow: rgba(0,0,0,0.2) 1px 1px 10px;
+	-webkit-box-shadow: rgba(0,0,0,0.2) 1px 1px 10px;
+	-o-box-shadow: rgba(0,0,0,0.2) 1px 1px 10px;
+	box-shadow: rgba(0,0,0,0.2) 1px 1px 10px;
+	-moz-transition-property: opacity;
+	-webkit-transition-property: opacity;
+	-o-transition-property: opacity;
+	transition-property: opacity;
+	-moz-transition-duration: 1s;
+	-webkit-transition-duration: 1s;
+	-o-transition-duration: 1s;
+	transition-duration: 1s
+}
+	#github span:last-child{
+		background: #a30207;
+		opacity: 0
+	}
+#github:hover span:first-child{
+	opacity: 0
+}
+#github:hover span:last-child{
+	opacity: 1
+}
+
+@media all and (-webkit-transform-3d){
+	#github span{
+		opacity: 1 !important;
+		-webkit-backface-visibility: hidden;
+		-webkit-transition: -webkit-transform 1s
+	}
+	#github span:last-child{
+		-webkit-transform: rotateX(180deg)
+	}
+	#github:hover span:first-child{
+		-webkit-transform: rotateX(180deg)
+	}
+	#github:hover span:last-child{
+		-webkit-transform: rotateX(360deg)
+	}
+}

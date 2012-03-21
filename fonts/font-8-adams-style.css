@@ -1,0 +1,36 @@
+/**
+ * @package  Styling for Beautiful Web Type Combinations 8 Douglas Adams
+ * @author   Frank Bültge <frank@bueltge.de>
+ * @since    0.0.1
+ * @version  0.0.1
+ *
+ * @description Fonts Cantata One and Imprima, quote by Douglas Adams ---- for the truth
+ */
+ 
+.sample#adams {
+	background: #ff0050;
+	color: #fff;
+	margin: 0 auto;
+	width: 100%;
+	padding: 250px 0;
+	text-align: justify;
+}
+	.sample#adams section {
+		max-width: 800px;
+		margin: 0 auto;
+	}
+	.sample#adams h1, .sample#adams h2 {
+		font: 400 70px/1.2 'Cantata One', Georgia, serif;
+		text-align: right;
+	}
+		.sample#adams h2 {
+			font-size: 16px;
+		}
+	.sample#adams p {
+		font: 400 20px/1.6 'Imprima', Verdana, Helvetica, sans-serif;
+		margin-right: 250px;
+	}
+	.sample#adams blockquote {
+		margin: 80px 0 0 0;
+	}
+	

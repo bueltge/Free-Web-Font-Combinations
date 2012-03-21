@@ -1,0 +1,35 @@
+/**
+ * @package  Styling for Beautiful Web Type Combinations 1 Einstein
+ * @author   Frank Bültge <frank@bueltge.de>
+ * @since    0.0.1
+ * @version  0.0.1
+ *
+ * @description Fonts Bree+Serif and Open+Sans, quote by Albert Einstein ---- a favorite person of my mind ;)
+ */
+ 
+.sample#einstein {
+	background: #E2DF9A;
+	color: #4B490B;
+	margin: 0 auto;
+	width: 100%;
+	padding: 200px 0;
+	text-align: justify;
+}
+	.sample#einstein section {
+		max-width: 800px;
+		margin: 0 auto;
+	}
+	.sample#einstein h1, .sample#einstein h2 {
+		font: 400 87px/1.3 'Bree Serif', Georgia, serif;
+	}
+		.sample#einstein h2 {
+			font-size: 20px;
+		}
+	.sample#einstein p {
+		font: 400 17px/1.6 'Open Sans', Verdana, Helvetica, sans-serif;
+		text-align: right;
+	}
+	.sample#einstein blockquote {
+		margin: 30px 0 0 0;
+	}
+	

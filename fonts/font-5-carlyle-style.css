@@ -1,0 +1,36 @@
+/**
+ * @package  Styling for Beautiful Web Type Combinations 5 Thomas Carlyle
+ * @author   Frank Bültge <frank@bueltge.de>
+ * @since    0.0.1
+ * @version  0.0.1
+ *
+ * @description Fonts Istok Web and Lora, quote by Thomas Carlyle ---- in deepest sympathy and memory to Michael Preuss
+ */
+ 
+.sample#carlyle {
+	background: #f4f4f4;
+	color: #555;
+	margin: 0 auto;
+	width: 100%;
+	padding: 250px 0;
+	text-align: justify;
+}
+	.sample#carlyle section {
+		max-width: 800px;
+		margin: 0 auto;
+	}
+	.sample#carlyle h1, .sample#carlyle h2 {
+		font: 400 70px/1.2 'Istok Web', Verdana, Helvetica, sans-serif;
+		margin-left: 70px;
+	}
+		.sample#carlyle h2 {
+			font-size: 17px;
+			word-spacing: 2px;
+		}
+	.sample#carlyle p {
+		font: 400 20px/1.6 'Lora', Georgia, serif;
+	}
+	.sample#carlyle blockquote {
+		margin: 80px 0 0 0;
+	}
+	
