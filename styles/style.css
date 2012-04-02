@@ -9,6 +9,10 @@ body {
 	background: #ccc;
 	font-family: "helvetica neue", helvetica, arial, sans-serif;
 	line-height: 1;
+	overflow: hidden;
+	position: absolute;
+	left: 0;
+	right: 0;
 }
 
 .hidden {

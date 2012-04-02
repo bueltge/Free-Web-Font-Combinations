@@ -19,14 +19,13 @@
 		
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta content="initial-scale=1, minimum-scale=1, width=960" name="viewport">
 		
 		<title>Beautiful web type combinations &mdash; maybe the best typefaces combinations from the Google web fonts directory</title>
 		<meta name="description" content="A showcase of the best typefaces from the Google web fonts directory.">
 		<meta name="author" content="Frank Bueltge">
 		<link rel="author" href="mailto:frank@bueltge.de" title="send eMail to author">
 		<link rel="DCTERMS.license" href="http://creativecommons.org/licenses/by-sa/3.0/">
-		
-		<meta name="viewport" content="width=device-width">
 		
 		<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 		<link href="styles/normalize.css" rel="stylesheet" type="text/css" media="screen">
@@ -52,11 +51,10 @@
 	
 	<body>
 		
+		<section role="main" id="container">
+		
 		<a id="github" href="https://github.com/bueltge/Free-Web-Font-Combinations">
 			<span>Fork me on GitHub!</span>
 			<span>Get free lemonade!</span>
 		</a>
 		
-		<section role="main" id="container">
-		
-
