@@ -19,7 +19,7 @@
 		
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<meta content="initial-scale=1, width=960" name="viewport">
+		<meta name="viewport" content="width=960, maximum-scale=1">
 		
 		<title>Beautiful web type combinations &mdash; maybe the best typefaces combinations from the Google web fonts directory</title>
 		<meta name="description" content="A showcase of the best typefaces from the Google web fonts directory.">
