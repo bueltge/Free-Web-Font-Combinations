@@ -16,4 +16,4 @@ while ( FALSE !== ( $font = readdir( $handle ) ) ) {
 }
 
 require_once( 'footer.php' );
-?>
+
