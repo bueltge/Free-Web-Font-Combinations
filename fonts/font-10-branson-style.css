@@ -20,14 +20,14 @@
 		margin: 0 auto;
 	}
 	.sample#branson h1, .sample#branson h2 {
-		font: 400 95px/1.2 'Rancho', Georgia, serif;
+		font: 400 95px/1.2 'Lobster', Georgia, serif;
 	}
 		.sample#branson h2 {
 			font-size: 20px;
 			margin-left: 110px;
 		}
 	.sample#branson p {
-		font: 400 17px/1.6 'Gudea', Verdana, Helvetica, sans-serif;
+		font: 400 17px/1.6 'Arimo', Verdana, Helvetica, sans-serif;
 		margin-left: 270px;
 	}
 	.sample#branson blockquote {

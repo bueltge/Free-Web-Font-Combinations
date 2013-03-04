@@ -1,0 +1,37 @@
+/**
+ * @package  Styling for Beautiful Web Type Combinations 11 Rohn
+ * @author   Frank Bültge <frank@bueltge.de>
+ * @since    04/03/2013
+ * @version  0.0.1
+ *
+ * @description Fonts Nixie One + Ledger, quote by Jim Rohn ---- American entrepreneur, author
+ */
+ 
+.sample#rohn {
+	background: #9f1224;
+	color: #f4f4f4;
+	margin: 0 auto;
+	width: 100%;
+	padding: 250px 0;
+	text-align: justify;
+}
+	.sample#rohn section {
+		max-width: 800px;
+		margin: 0 auto;
+	}
+	.sample#rohn h1, .sample#rohn h2 {
+		font: 400 95px/1.2 'Nixie One', Georgia, serif;
+		text-align: right;
+	}
+		.sample#rohn h2 {
+			font-size: 20px;
+			margin-left: 110px;
+		}
+	.sample#rohn p {
+		font: 400 17px/1.6 'Ledger', Verdana, Helvetica, sans-serif;
+		margin-left: 270px;
+	}
+	.sample#rohn blockquote {
+		margin: 80px 0 0 0;
+	}
+	
