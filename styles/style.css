@@ -60,7 +60,7 @@ footer {
 	right:-65px;
 	height:30px;
 	top:40px;
-	position:absolute;
+	position:fixed;
 	text-decoration:none;
 	width:250px;
 	-moz-transform:rotate(45deg);
