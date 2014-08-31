@@ -57,17 +57,17 @@ footer {
  * Github badge
  */
 #github{
-	right:-65px;
-	height:30px;
-	top:40px;
-	position:fixed;
-	text-decoration:none;
-	width:250px;
-	-moz-transform:rotate(45deg);
-	-webkit-transform:rotate(45deg);
-	-o-transform:rotate(45deg);
-	-ms-transform:rotate(45deg);
-	transform:rotate(45deg)
+	right: -65px;
+	height: 30px;
+	top: 40px;
+	position: fixed;
+	text-decoration: none;
+	width: 250px;
+	-moz-transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+	-o-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	transform: rotate(45deg)
 }
 #github span{
 	color: #fff;
@@ -75,7 +75,7 @@ footer {
 	font-size: 14px;
 	left: 0;
 	padding: 5px 0;
-	position: absolute;
+	position: fixed;
 	text-align: center;
 	width: 250px;
 	-moz-box-shadow: rgba(0,0,0,0.2) 1px 1px 10px;
