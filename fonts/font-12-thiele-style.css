@@ -1,0 +1,33 @@
+/**
+ * @package  Styling for Beautiful Web Type Combinations 9 Unknown
+ * @author   Frank Bültge <frank@bueltge.de>
+ * @since    0.0.1
+ * @version  0.0.1
+ *
+ * @description Fonts Bree and Fira, quote by Marc Thiele from his blog
+ */
+ 
+.sample#thiele {
+	font-size: 150%;
+	background: #fff;
+	color: #343a3e;
+	margin: 0 auto;
+	width: 100%;
+	padding: 250px 0;
+}
+	.sample#thiele section:hover {
+		color: #fff;
+		background: #d65b3a;
+	}
+	.sample#thiele section {
+		max-width: 800px;
+		margin: 0 auto;
+	}
+	.sample#thiele h1 {
+		font: 400 2.15em/1.2 'Bree Serif', serif;
+		padding: .5em;
+	}
+	.sample#thiele blockquote {
+		font: 300 1em/1.6 'Fira Sans', sans-serif;
+		padding: 1em;
+	}
