@@ -5,7 +5,7 @@
 				<ul>
 					<li><a href="http://www.google.com/webfonts">Google Web Fonts</a></li>
 					<li><a href="http://www.colourlovers.com/palette/53698/Its_a_Virtue">COLOURlovers</a></li>
-					<li><a href="http://hellohappy.org/beautiful-web-type/">Beautiful Web Type</a></li>
+					<li><a href="https://beautifulwebtype.com">Beautiful Web Type</a></li>
 					<li><a href="http://about.me/frankbueltge">Frank Bültge</a></li>
 				</ul>
 			</footer>

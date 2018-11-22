@@ -23,5 +23,5 @@ I'm German and my English might be gruesome here and there. So please be patient
 ### *Thanks* to the follow helpers and inspirations
  * [Google Web Fonts](http://www.google.com/webfonts)
  * [COLOURlovers](http://www.colourlovers.com/palette/53698/Its_a_Virtue)
- * [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/)
+ * [Beautiful Web Type](https://beautifulwebtype.com)
  * [Frank Bültge](http://about.me/frankbueltge)
