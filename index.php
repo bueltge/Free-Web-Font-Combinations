@@ -7,7 +7,7 @@ $handle = @opendir( dirname( __FILE__ ) . '/' . $folder );
 if ( ! $handle )
 	return;
 // load via random of speed
-while ( FALSE !== ( $font = readdir( $handle ) ) ) {
+while ( false !== ( $font = readdir( $handle ) ) ) {
 	
 	if ( 'section.php' === substr( $font, -11 ) ) {
 		require_once dirname( __FILE__ ) . '/' . $folder . '/' . $font;

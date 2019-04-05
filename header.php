@@ -38,7 +38,7 @@
 		if ( ! $handle )
 			return;
 			
-		while ( FALSE !== ( $font = readdir( $handle ) ) ) {
+		while ( false !== ( $font = readdir( $handle ) ) ) {
 			
 			if ( 'head.php' === substr( $font, -8 ) ) {
 				require_once dirname( __FILE__ ) . '/' . $folder . '/' . $font;
